@@ -1,0 +1,9 @@
+# Set default behavior for text files
+* text=auto
+
+# Explicitly declare files that should have LF line endings on checkout
+*.js text eol=lf
+
+# Denote binary files
+*.png binary
+*.jpg binary
